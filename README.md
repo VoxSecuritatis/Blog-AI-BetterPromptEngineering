@@ -125,17 +125,16 @@ This policy applies to all third-party service providers that store, process, or
   Author: Elvis Saravia  
   https://github.com/dair-ai/Prompt-Engineering-Guide
 
-- **"The Art of Prompt Engineering with OpenAI GPT Models"**  
-  Author: Nathan Lambert  
-  https://towardsdatascience.com/prompt-engineering-with-gpt-models-656f5e5e7f96
-
 - **OpenAI API Documentation**  
   https://platform.openai.com/docs
 
 - **NIST Special Publication 800-171**  
   Author: National Institute of Standards and Technology  
-  https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final
+  https://csrc.nist.gov/pubs/sp/800/171/r3/final
 
+- **"The Art and Science of Prompt Engineering: A Comprehensive Guide"**<br>
+  Author: Preeti<br>
+  https://medium.com/@preeti.rana.ai/the-art-and-science-of-prompt-engineering-a-comprehensive-guide-87983851ab6f
 ---
 
 ## Conclusion
